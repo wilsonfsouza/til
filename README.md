@@ -4,6 +4,7 @@
 This repository is a collection of concise articles about topics I have been learning across a variety of languages and technologies.
 
 The idea for this repo was given to me by Diego Fernandes from [Rocketseat](https://rocketseat.com.br/).
+
 ---
 ## Categories
 

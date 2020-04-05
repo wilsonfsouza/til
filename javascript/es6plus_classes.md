@@ -67,6 +67,13 @@ document.getElementById('newtodo').onclick = function () {
 }
 
 MyList.showUser();
+// First click on button
+// Diego
+// ["New Task"]
+
+// Second click on button
+// ["New Task", "New Task"]
+// ...
 ```
 
 See the [ES6+ Feature Class

@@ -25,16 +25,17 @@ A `class` body and method definition support prototype-based inheritance, constr
     * It can use the `super()` keyword to call the constructor of the superclass ("parent class")
 * **Methods:** it represents actions that an object can take.
  
-Example: Simulate the logistics of a simple to-do list using a class to hold the list array and a subclass for a specific user.
+### Example: Simulate the logistics of a simple to-do list using a class to hold the list array and a subclass for a specific user.
 
 STEPS:
-    1. Create the class **TodoList**
-    2. Add the constructor method and initiate **todos** variable as an empty array
-    3. Add a method to add tasks and push a new task to the list
-    4. Create a button in the **index.html** holding the id='newtodo'
-    5. Instantiate the class by assigning a new list to a variable
-    6. Add an **onclick** parameter to the button created
-    7. Add the subclass **List** for user Diego
+
+1. Create the class **TodoList**.
+2. Add the constructor method and initiate **todos** variable as an empty array.
+3. Add a method to add tasks and push a new task to the list.
+4. Create a button in the **index.html** holding the id='newtodo'.
+5. Instantiate the class by assigning a new list to a variable.
+6. Add an **onclick** parameter to the button created.
+7. Add the subclass **List** for the user Diego.
 
 ```javascript
 class List {

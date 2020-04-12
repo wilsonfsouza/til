@@ -15,7 +15,7 @@
 
 ## :books: Categories
 
-* GIS Software
+* [GIS Software](#earth_americas-gis-software)
 	* [ArcGIS Pro](#arcgis-pro)
 * [JavaScript](#computer-javascript)
 * [Python](#snake-python)
@@ -32,10 +32,6 @@
 
 ## :snake: Python
 - 
-
-
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.16.2 LTS][nodejs], and [Yarn v1.22][yarn] installed on your computer. From your command line:
-
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/wilsonfsouza/til/blob/master/LICENSE) for more information.

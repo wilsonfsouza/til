@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img height=80 alt="idea" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F03%2FLight-Bulb-PNG-HD.png&f=1&nofb=1" />
     <br>

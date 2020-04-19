@@ -36,12 +36,12 @@
 
 ### Example: Creating a Button Component
 
-:heavy_check_mark: Import React
-:heavy_check_mark: Import View, TouchableOpacity, and Text components from react-native
-:heavy_check_mark: Declare Styles Object
-:heavy_check_mark: Add parameters for styling
-:heavy_check_mark: Create a function to return the Component
-:heavy_check_mark: Use react-native components to create your button component
+:heavy_check_mark: Import React<br>
+:heavy_check_mark: Import View, TouchableOpacity, and Text components from react-native<br>
+:heavy_check_mark: Declare Styles Object<br>
+:heavy_check_mark: Add parameters for styling<br>
+:heavy_check_mark: Create a function to return the Component<br>
+:heavy_check_mark: Use react-native components to create your button component<br>
 
 ```javascript
 import React from 'react';

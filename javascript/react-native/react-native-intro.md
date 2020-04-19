@@ -4,6 +4,13 @@
     Intro to React Native
 </h1>
 
+<h2 align="center">Overview</h2>
+<p align="center">
+  <a href="#what-is-it">What is it?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-it-works">How it works?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#syntax">Syntax</a>
+</p>
+
 # What is it?
 - It is a version of React for mobile development.
 

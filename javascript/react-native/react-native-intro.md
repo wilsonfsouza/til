@@ -21,10 +21,10 @@
 
 |Steps | Activity Summary |
 | --- | ---|
-| Reading | JS :arrow_right: Metro Bundler |
-| Transforming | Metro Bundler :arrow_right: bundle.js |
-| Converting | bundle.js :arrow_right: Bridge APIs |
-| Interpreting | Bridge APIs :arrow_right: iOS or Android |
+| Reading | JS --> Metro Bundler |
+| Transforming | Metro Bundler --> bundle.js |
+| Converting | bundle.js --> Bridge APIs |
+| Interpreting | Bridge APIs --> iOS or Android |
 
 </center>
 
@@ -36,12 +36,12 @@
 
 ### Example: Creating a Button Component
 
-- :heavy_check_mark: Import React
-- :heavy_check_mark: Import View, TouchableOpacity, and Text components from react-native
-- :heavy_check_mark: Declare Styles Object
-- :heavy_check_mark: Add parameters for styling
-- :heavy_check_mark: Create a function to return the Component
-- :heavy_check_mark: Use react-native components to create your button component
+:heavy_check_mark: Import React
+:heavy_check_mark: Import View, TouchableOpacity, and Text components from react-native
+:heavy_check_mark: Declare Styles Object
+:heavy_check_mark: Add parameters for styling
+:heavy_check_mark: Create a function to return the Component
+:heavy_check_mark: Use react-native components to create your button component
 
 ```javascript
 import React from 'react';

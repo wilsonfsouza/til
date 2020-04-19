@@ -4,7 +4,7 @@
     ReactJS VS React Native
 </h1>
 
-<h2 align="center">Overview Topics</h2>
+<h3 align="center">Overview</h3>
 <p align="center">
   <a href="#differences">Differences</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#components">Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

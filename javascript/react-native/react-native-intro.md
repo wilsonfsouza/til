@@ -4,7 +4,7 @@
     Intro to React Native
 </h1>
 
-<h2 align="center">Overview</h2>
+<h3 align="center">Overview</h3>
 <p align="center">
   <a href="#what-is-it">What is it?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-it-works">How it works?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
